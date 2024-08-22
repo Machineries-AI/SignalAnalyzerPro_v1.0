@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Signal Analysis Project (SigAnPro v1.0)
 
 Overview
@@ -54,7 +55,7 @@ Future Possibilities
 
 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
 
@@ -62,3 +63,6 @@ For any inquiries or further information, feel free to contact:
 
 Md Mohibullah 
 Email: support@mdmohibullah.me
+=======
+# SignalAnalyzerPro_v1.0
+>>>>>>> 56b88892e1bd9e819c577bbf27538e67d2116990
