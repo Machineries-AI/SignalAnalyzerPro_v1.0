@@ -40,6 +40,13 @@ To run SigAnPro v1.0, follow these steps:
 4. Executable Version:
    If you want to run the standalone executable version, you can download the `.exe` file from the `dist` folder or compile it yourself using PyInstaller.
 
+Sample Data
+
+The `sample_data` folder contains the physiological signal data files used for testing and demonstration of the **SignalAnalyzerPro_v1.0** tool. These files include ECG and PPG data in `.dat` format.
+
+To use these sample data files, load them into the tool using the `Load ECG & PPG Data` button in the GUI.
+
+
 Usage
 
 1. Load Data: Click the "Load ECG & PPG Data" button and select your data file in WFDB format.
