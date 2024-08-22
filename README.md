@@ -61,4 +61,4 @@ Contact
 For any inquiries or further information, feel free to contact:
 
 Md Mohibullah 
-Email: [md_mohib@auburn.edu](mailto:md_mohib@auburn.edu)
+Email: support@mdmohibullah.me
